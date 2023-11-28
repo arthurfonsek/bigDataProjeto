@@ -1,0 +1,12 @@
+DT_NOTIFIC     object
+SEM_NOT         int64
+DT_SIN_PRI     object
+SEM_PRI         int64
+SG_UF_NOT      object
+               ...   
+DT_VGM        float64
+DT_RT_VGM     float64
+PCR_SARS2     float64
+PAC_COCBO     float64
+PAC_DSCBO     float64
+Length: 137, dtype: object
